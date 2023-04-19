@@ -1,22 +1,17 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-<title></title>
+<title>This is my Example Title</title>
+</head>
 
-<body> 
-h1 {
-color:#336600
-}
+<body style="background-color:#5D279E;"> 
+<h2 style="color:#5BB0BD;">This is a color headline</h2>
+<p style="background-color:#00758D;">This is the noot</p>
 
-<p>
-<h1><strong>This is the noot.</strong></h1><p/>
-<blockquote>Pingu Pingu.</blockquote>
-<p>I type this sentence to play around with some things. But I am making it a paragraph. One with three sentences. </p>
-<p>Then I make a new paragraph. Do you like it?</p>
 
-https://www.youtube.com/watch?v=iQb9tWNaWag&t=729s
 </body>
 
 
-</head>
+
 </html>
